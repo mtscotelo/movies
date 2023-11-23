@@ -1,11 +1,8 @@
 #Movies
 
 Integrantes
-Gaston Castillo  edad 38 ciudad san miguel
-Gaston Castillo edad 38 ciudad san miguel 
-Mauro Suarez
+Gaston Castillo  edad 38 ciudad san miguel 
+Mauro Suarez ,24  , tigre-buenos aires
 Saravia Mathias , 19 , Buenos Aires
-Matias dario Cotelo
-Saravia Mathias
 Matias dario Cotelo, 29 años, Buenos Aires.
-Samuel Barrios
+ Nombre: Samuel BarriosEdad: 28 Ciudad de residencia:CABA
