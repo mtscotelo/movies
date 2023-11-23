@@ -5,6 +5,4 @@ Gaston Castillo
 Mauro Suarez
 Saravia Mathias
 Matias dario Cotelo
-### Nombre: Samuel Barrios
-### Edad: 28
-### Ciudad de residencia:CABA
+ Nombre: Samuel BarriosEdad: 28 Ciudad de residencia:CABA
