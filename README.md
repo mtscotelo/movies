@@ -2,7 +2,7 @@
 
 Integrantes
 Gaston Castillo
-Mauro Suarez
+Mauro Suarez, 24, Tigre- Buenos Aires
 Saravia Mathias
 Matias dario Cotelo
 Samuel Barrios
